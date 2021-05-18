@@ -69,3 +69,10 @@ a { color: #002052; }
   background: #ffffff;
   color: #BE1E2D;
 }
+
+.intro {
+  background: #efefef;
+  padding: 50px;
+  text-align: center;
+}
+
