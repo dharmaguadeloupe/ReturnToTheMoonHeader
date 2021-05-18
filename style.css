@@ -107,3 +107,16 @@ a { color: #002052; }
   float: right;
   margin: 10px 0 10px 40px;
 }
+
+.about ol {
+  border-left: 5px solid #002052;
+  margin: 30px 0;
+  padding: 0 40px;
+}
+
+.about li {
+  font-size: 18px;
+  font-style: italic;
+  line-height: 30px;
+}
+
