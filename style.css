@@ -97,3 +97,13 @@ a { color: #002052; }
   font-size: 18px;
   line-height: 34px;
 }
+
+.about .left-picture {
+  float: left;
+  margin: 10px 40px 10px 0;
+}
+
+.about .right-picture {
+  float: right;
+  margin: 10px 0 10px 40px;
+}
